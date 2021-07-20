@@ -22,6 +22,7 @@ const input = { tag: 'JAVASCRIPT' };
 const output = transform(input);
 
 console.log(`output="${output}"`);
+// output ====> (javascript)
 
 // Excercise 2
 

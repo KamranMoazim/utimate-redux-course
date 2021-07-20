@@ -15,7 +15,7 @@ export function greet(fnMessage) {
   console.log(fnMessage());
 }
 
-// greet(() => "Hello World!")
+// greet(() => "Hello World!");
 greet(sayHello);
 
 const numbers = [1, 2, 3];
